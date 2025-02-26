@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" version="26.0.16">
+  <diagram name="Page-1" id="kva1lER7PbmzYGGSF43M">
+    <mxGraphModel dx="1305" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="F6_tqROMsXbCtQUK2YL9-1" value="Экран входа" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F6_tqROMsXbCtQUK2YL9-2" value="Пользователь нажал на кнопку &quot;Вход&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F6_tqROMsXbCtQUK2YL9-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F6_tqROMsXbCtQUK2YL9-2" target="F6_tqROMsXbCtQUK2YL9-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="200" as="sourcePoint" />
+            <mxPoint x="440" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F6_tqROMsXbCtQUK2YL9-4" value="Экран входа" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F6_tqROMsXbCtQUK2YL9-5" value="Экран регистрации" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F6_tqROMsXbCtQUK2YL9-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F6_tqROMsXbCtQUK2YL9-1" target="F6_tqROMsXbCtQUK2YL9-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="200" as="sourcePoint" />
+            <mxPoint x="440" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F6_tqROMsXbCtQUK2YL9-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F6_tqROMsXbCtQUK2YL9-1" target="F6_tqROMsXbCtQUK2YL9-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="170" as="sourcePoint" />
+            <mxPoint x="280" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F6_tqROMsXbCtQUK2YL9-8" value="Пользователь ввел номер телефона" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F6_tqROMsXbCtQUK2YL9-9" value="Пользователь нажал на кнопку &quot;Зарегистрироваться&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F6_tqROMsXbCtQUK2YL9-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F6_tqROMsXbCtQUK2YL9-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F6_tqROMsXbCtQUK2YL9-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F6_tqROMsXbCtQUK2YL9-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F6_tqROMsXbCtQUK2YL9-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F6_tqROMsXbCtQUK2YL9-4" target="F6_tqROMsXbCtQUK2YL9-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="200" as="sourcePoint" />
+            <mxPoint x="440" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F6_tqROMsXbCtQUK2YL9-15" value="Номер пользователя не найден" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F6_tqROMsXbCtQUK2YL9-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F6_tqROMsXbCtQUK2YL9-4" target="F6_tqROMsXbCtQUK2YL9-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="300" as="sourcePoint" />
+            <mxPoint x="120" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F6_tqROMsXbCtQUK2YL9-17" value="номер пользователя найден, его регистрировал на поездку оператор" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
