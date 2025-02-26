@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="F6_tqROMsXbCtQUK2YL9-1" value="Экран входа" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="F6_tqROMsXbCtQUK2YL9-1" value="Экран входа" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="340" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F6_tqROMsXbCtQUK2YL9-2" value="Пользователь нажал на кнопку &quot;Вход&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -97,11 +97,20 @@
             <mxPoint x="440" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JP0KHPGPUKH7w-QjFMui-14" value="тк мы не можем различить сейчас эти 3 сценария, то они превращаются в 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="560" width="260" height="30" as="geometry" />
+        <mxCell id="JP0KHPGPUKH7w-QjFMui-14" value="тк мы не можем различить сейчас эти 3 сценария, то они превращаются в 1&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;общее у них:&lt;/div&gt;&lt;div&gt;номер пользователя найден&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Цель: что бы пользователь самостоятельно зарегистрировался на сайте&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="600" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JP0KHPGPUKH7w-QjFMui-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="630" width="120" height="60" as="geometry" />
+        <mxCell id="JP0KHPGPUKH7w-QjFMui-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="JP0KHPGPUKH7w-QjFMui-15" target="F6_tqROMsXbCtQUK2YL9-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="485" y="880" />
+              <mxPoint x="800" y="880" />
+              <mxPoint x="800" y="275" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JP0KHPGPUKH7w-QjFMui-15" value="Алерт, где говорим что мы нашли ваши рейсы и для входа вам необходимо зарегистрироваться.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;И при регистрации подставляем данные, которые знаем, если данные есть.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="710" width="190" height="130" as="geometry" />
         </mxCell>
         <mxCell id="JP0KHPGPUKH7w-QjFMui-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F6_tqROMsXbCtQUK2YL9-11" target="JP0KHPGPUKH7w-QjFMui-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -120,6 +129,9 @@
             <mxPoint x="390" y="550" as="sourcePoint" />
             <mxPoint x="440" y="500" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JP0KHPGPUKH7w-QjFMui-21" value="т.к. из 3 сценариев &amp;nbsp;есть 2, в которых пользователь не зарегистрирован, то большинством &amp;nbsp;1 вытекающий сценарий будет на целен на первые 2, пользователи из 3 сценария пострадают, но с этим ничего не поделать." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="760" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
